@@ -13,7 +13,7 @@ const Navbar = () => {
 
   return (
     <div className="absolute w-full flex justify-between  p-4 items-center ">
-      <h1 className="text-white text-2xl font-bold z-20">Experiences</h1>
+      <h1 className="text-white text-2xl font-bold z-20">BookNest</h1>
       <HiMenu
         onClick={handleNav}
         className="z-20 text-white cursor-pointer"
@@ -27,10 +27,10 @@ const Navbar = () => {
         }
       >
         <ul className=" w-full h-full fixed flex flex-col items-center justify-center ">
-          <a href="#">
+          <a href="Hero.jsx">
             <li className="font-bold text-3xl py-4">Home</li>
           </a>
-          <a href="#">
+          <a href="Destinations.jsx">
             <li className="font-bold text-3xl py-4">Destinations</li>
           </a>
           <a href="#">

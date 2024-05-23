@@ -4,7 +4,7 @@ import room2 from "../assets/room2.webp";
 import room3 from "../assets/room3.avif";
 const Rooms = () => {
   return (
-    <div className=" max-w-[1312] m-auto bg-blue-100 h-[450px] lg:mb-[20%] md:mb-[35%]  px-5 pt-16 grid grid-cols-2  ">
+    <div className="  max-w-[1312] m-auto bg-blue-100 h-[400px] lg:mb-[20%] md:mb-[35%]  px-5 pt-16 grid grid-cols-2  my-[60px]">
       <div className=" lg:top-20  relative   lg:col-span-1 col-span-2 py-4">
         <h1 className="text-3xl font-bold  pb-4">Find Interior Rooms</h1>
         <p>

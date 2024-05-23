@@ -1,4 +1,5 @@
 import beach2 from "../assets/beach2.webp";
+
 const Hero = () => {
   return (
     <div className="w-full h-screen">

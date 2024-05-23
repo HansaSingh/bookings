@@ -1,9 +1,12 @@
 import "./App.css";
 import Navbar from "./components/Navbar";
+
 import Hero from "./components/Hero";
 import Offers from "./components/Offers";
 import Plan from "./components/Plan";
 import Rooms from "./components/Rooms";
+import Destinations from "./components/Destinations";
+import AllOffers from "./components/AllOffers";
 function App() {
   return (
     <>
@@ -11,6 +14,8 @@ function App() {
       <Hero></Hero>
       <Offers />
       <Plan />
+      <Destinations></Destinations>
+      <AllOffers></AllOffers>
       <Rooms></Rooms>
     </>
   );

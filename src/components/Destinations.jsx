@@ -11,74 +11,46 @@ const Destinations = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-2 mx-3 flex space-between ">
         <div className="flex flex-row">
           <div className="max-w-[250px] h-[320px] rounded overflow-hidden shadow-lg mx-5">
-            <img className="h-[150px] w-[200px] my-0 mx-5" src={beach1}></img>
+            <img className="h-[170px] w-[250px] p-4" src={beach1}></img>
             <div className="px-4 py-2">
               <div className="font-bold text-xl mb-2">GOA</div>
               <p className="text-gray-700 text-base">
-                “Where the sun, sand, and sea create memories.”
+                “Where the sand, and sea create memories.”
               </p>
             </div>
-            <div className="px-6 pt-4 pb-2">
-              <span className="inline-block bg-gray-200 rounded-full px-1 mx-[-10px] py-1 text-sm font-semibold text-gray-700 mr-4 mb-2">
-                #photography
-              </span>
-              <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">
-                #travel
-              </span>
-            </div>
+            <div className="px-6 pt-4 pb-2"></div>
           </div>{" "}
           <div className="max-w-[250px] h-[320px] rounded overflow-hidden shadow-lg mx-5">
-            <img className="h-[150px] w-[200px] my-0 mx-5" src={beach12}></img>
+            <img className="h-[170px] w-[250px] p-4" src={beach12}></img>
             <div className="px-4 py-2">
               <div className="font-bold text-xl mb-2">GOKARNA</div>
               <p className="text-gray-700 text-base">
                 “Escape the city and embrace the waves of Gokarna
               </p>
             </div>
-            <div className="px-6 pt-4 pb-2">
-              <span className="inline-block bg-gray-200 rounded-full px-1 mx-[-10px] py-1 text-sm font-semibold text-gray-700 mr-4 mb-2">
-                #photography
-              </span>
-              <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">
-                #travel
-              </span>
-            </div>
+            <div className="px-6 pt-4 pb-2"></div>
           </div>{" "}
         </div>
         <div className="flex flex-row  ">
           <div className="max-w-[250px] h-[320px] rounded overflow-hidden shadow-lg mx-5 ">
-            <img className="h-[150px] w-[200px] my-0 mx-5" src={beach11}></img>
+            <img className="h-[170px] w-[250px] p-4" src={beach11}></img>
             <div className="px-4 py-2">
               <div className="font-bold text-xl mb-2">MALDIVES</div>
               <p className="text-gray-700 text-base">
                 where the world fades, and the soul comes alive.”
               </p>
             </div>
-            <div className="px-6 pt-4 pb-2">
-              <span className="inline-block bg-gray-200 rounded-full px-1 mx-[-10px] py-1 text-sm font-semibold text-gray-700 mr-4 mb-2">
-                #photography
-              </span>
-              <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">
-                #travel
-              </span>
-            </div>
+            <div className="px-6 pt-4 pb-2"></div>
           </div>{" "}
           <div className="max-w-[250px] h-[320px] rounded overflow-hidden shadow-lg mx-5 ">
-            <img className="h-[150px] w-[200px] my-0 mx-5" src={beach4}></img>
+            <img className="h-[170px] w-[250px] p-4" src={beach4}></img>
             <div className="px-4 py-2">
               <div className="font-bold text-xl mb-2">KERALA</div>
               <p className="text-gray-700 text-base">
                 “don’t need therapy, just a ticket to Kerala.”
               </p>
             </div>
-            <div className="px-6 pt-4 pb-2">
-              <span className="inline-block bg-gray-200 rounded-full px-1 mx-[-10px] py-1 text-sm font-semibold text-gray-700 mr-4 mb-2">
-                #photography
-              </span>
-              <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">
-                #travel
-              </span>
-            </div>
+            <div className="px-6 pt-4 pb-2"></div>
           </div>{" "}
         </div>
       </div>

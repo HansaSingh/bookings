@@ -7,6 +7,7 @@ import Plan from "./components/Plan";
 import Rooms from "./components/Rooms";
 import Destinations from "./components/Destinations";
 import AllOffers from "./components/AllOffers";
+import Map1 from "./components/Map1";
 function App() {
   return (
     <>
@@ -16,6 +17,7 @@ function App() {
       <Plan />
       <Destinations></Destinations>
       <AllOffers></AllOffers>
+
       <Rooms></Rooms>
     </>
   );

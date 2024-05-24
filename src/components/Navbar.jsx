@@ -37,7 +37,7 @@ const Navbar = () => {
             <li className="font-bold text-3xl py-4">Reservations</li>
           </a>
           <a href="#">
-            <li className="font-bold text-3xl py-4">Amenities</li>
+            <li className="font-bold text-3xl py-4">Offers</li>
           </a>
           <a href="#">
             <li className="font-bold text-3xl py-4">Rooms</li>

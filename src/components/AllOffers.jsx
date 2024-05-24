@@ -33,7 +33,7 @@ const AllOffers = () => {
           </div>{" "}
         </div>
         <div className="flex flex-row  ">
-          <div className="max-w-[250px] h-[320px] rounded overflow-hidden shadow-lg mx-5 ">
+          <div className="max-w-[250px] h-[320px] rounded  overflow-hidden shadow-lg mx-5">
             <img className="h-[170px] w-[250px] p-4" src={beach8}></img>
             <div className="px-4 py-2">
               <div className="font-bold text-xl mb-2">
@@ -43,7 +43,7 @@ const AllOffers = () => {
             </div>
             <div className="px-6 pt-4 pb-2"></div>
           </div>{" "}
-          <div className="max-w-[250px] h-[320px] rounded overflow-hidden shadow-lg mx-5 ">
+          <div className="max-w-[250px] h-[320px] rounded   overflow-hidden shadow-lg mx-5 ">
             <img className="h-[170px] w-[250px] p-4" src={beach9}></img>
             <div className="px-4 py-2">
               <div className="font-bold text-xl mb-2">GRAB UP TO 35% OFF* </div>
